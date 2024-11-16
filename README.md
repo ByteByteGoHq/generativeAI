@@ -214,18 +214,18 @@
 [2] xGen‐MM (BLIP‐3): A Family of Open Large Multimodal Models. https://www.arxiv.org/abs/2408.08872.  
 [3] InternVL: Scaling Up Vision Foundation Models and Aligning for Generic Visual‐Linguistic Tasks. https://arxiv.org/abs/2312.14238.  
 [4] Meta’s Llama. https://llama.meta.com/.  
-[5] Byte‐Pair Encoding Tokenization. https://huggingface.co/learn/nlp‐course/en/chapter6/5.  
+[5] Byte‐Pair Encoding Tokenization. https://huggingface.co/learn/nlp-course/en/chapter6/5.  
 [6] LAION‐5B: An Open Large‐Scale Dataset for Training Next Generation Image‐Text Models. https://arxiv.org/abs/2210.08402.  
 [7] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. https://arxiv.org/abs/2010.11929.  
-[8] Language Models are Unsupervised Multitask Learners. https://cdn.openai.com/better‐language‐models/language_models_are_unsupervised_multitask_learners.pdf.  
+[8] Language Models are Unsupervised Multitask Learners. https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf.  
 [9] Learning Transferable Visual Models From Natural Language Supervision. https://arxiv.org/abs/2103.00020.  
-[10] Cross‐Entropy. https://en.wikipedia.org/wiki/Cross‐entropy.  
+[10] Cross‐Entropy. https://en.wikipedia.org/wiki/Cross-entropy.  
 [11] CIDEr: Consensus‐Based Image Description Evaluation. https://arxiv.org/abs/1411.5726.  
-[12] TF‐IDF Introduction. https://web.stanford.edu/class/cs276/19handouts/lecture6‐tfidf‐1per.pdf.  
+[12] TF‐IDF Introduction. https://web.stanford.edu/class/cs276/19handouts/lecture6-tfidf-1per.pdf.  
 [13] TF‐IDF. https://en.wikipedia.org/wiki/Tf%E2%80%93idf.  
-[14] Visual Question Answering Introduction. https://huggingface.co/tasks/visual‐question‐answering.  
+[14] Visual Question Answering Introduction. https://huggingface.co/tasks/visual-question-answering.  
 [15] Cross‐Domain Image Captioning with Discriminative Finetuning. https://arxiv.org/abs/2304.01662.  
-[16] Crossmodal‐3600 — Multilingual Reference Captions for Geographically Diverse Images. https://research.google/blog/crossmodal‐3600‐multilingual‐reference‐captions‐for‐geographically‐diverse‐images/.  
+[16] Crossmodal‐3600 — Multilingual Reference Captions for Geographically Diverse Images. https://research.google/blog/crossmodal-3600-multilingual-reference-captions-for-geographically-diverse-images/.  
 [17] Efficient Image Captioning for Edge Devices. https://arxiv.org/abs/2212.08985.  
 [18] Ensemble Model Using an Image Captioning and Ranking Example. https://cloud.google.com/dataflow/docs/notebooks/run_inference_multi_model.  
 
@@ -239,16 +239,16 @@
 [4] Optical Character Recognition. https://en.wikipedia.org/wiki/Optical_character_recognition.  
 [5] Dedoc GitHub Repository. https://github.com/ispras/dedoc.  
 [6] LayoutParser: A Unified Toolkit for Deep Learning Based Document Image Analysis. https://arxiv.org/abs/2103.15348.  
-[7] Google Cloud document parser API. https://cloud.google.com/document‐ai/docs/layout‐parse‐chunk.  
-[8] PDF.CO document parser API. https://developer.pdf.co/api/document‐parser/index.html.  
+[7] Google Cloud document parser API. https://cloud.google.com/document-ai/docs/layout-parse-chunk.  
+[8] PDF.CO document parser API. https://developer.pdf.co/api/document-parser/index.html.  
 [9] Character text splitter in LangChain. https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/character_text_splitter/.  
 [10] Elasticsearch. https://www.elastic.co/elasticsearch.  
 [11] A Survey on Knowledge Graphs: Representation, Acquisition, and Applications. https://ieeexplore.ieee.org/document/9416312.  
 [12] Christopher D. Manning. Introduction to Information Retrieval.2008.  
 [13] Modern Information Retrieval: A Brief Overview. http://singhal.info/ieee2001.pdf.  
 [14] Learning Transferable Visual Models From Natural Language Supervision. https://arxiv.org/abs/2103.00020.  
-[15] OpenAI finetuning documentation. https://platform.openai.com/docs/guides/fine‐tuning.  
-[16] Anthropic finetuning. https://www.anthropic.com/news/fine‐tune‐claude‐3‐haiku.  
+[15] OpenAI finetuning documentation. https://platform.openai.com/docs/guides/fine-tuning.  
+[16] Anthropic finetuning. https://www.anthropic.com/news/fine-tune-claude-3-haiku.  
 [17] RAFT: Adapting Language Model to Domain Specific RAG. https://arxiv.org/abs/2403.10131.  
 [18] Euclidean Distance. https://en.wikipedia.org/wiki/Euclidean_distance.  
 [19] Cosine Similarity. https://en.wikipedia.org/wiki/Cosine_similarity.  
@@ -258,11 +258,11 @@
 [23] Similarity search in high dimensions via hashing. https://www.cs.princeton.edu/courses/archive/spring13/cos598C/Gionis.pdf.  
 [24] Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs. https://arxiv.org/abs/1603.09320.  
 [25] Faiss Documentation. https://faiss.ai/.  
-[26] ScaNN. https://research.google/blog/announcing‐scann‐efficient‐vector‐similarity‐search/.  
-[27] Developer Playground. https://docs.cohere.com/v2/docs/playground‐overview.  
+[26] ScaNN. https://research.google/blog/announcing-scann-efficient-vector-similarity-search/.  
+[27] Developer Playground. https://docs.cohere.com/v2/docs/playground-overview.  
 [28] Chain‐of‐Thought Prompting Elicits Reasoning in Large Language Models. https://arxiv.org/abs/2201.11903.  
 [29] Tree of Thoughts: Deliberate Problem Solving with Large Language Models. https://arxiv.org/abs/2305.10601.  
-[30] OpenAI o1. https://openai.com/index/learning‐to‐reason‐with‐llms/.  
+[30] OpenAI o1. https://openai.com/index/learning-to-reason-with-llms/.  
 [31] Scaling LLM Test‐Time Compute Optimally can be More Effective than Scaling Model Parameters. https://arxiv.org/abs/2408.03314.  
 [32] Language Models are Few‐Shot Learners. https://arxiv.org/abs/2005.14165.  
 [33] Machine Learning System Design Interview. https://www.aliaminian.com/books.  
@@ -285,11 +285,11 @@
 [2] Auto‐Encoding Variational Bayes. https://arxiv.org/abs/1312.6114.  
 [3] Generative Adversarial Networks. https://arxiv.org/abs/1406.2661.  
 [4] Combating Mode Collapse in GAN Training: An Empirical Analysis Using Hessian Eigenvalues. https://arxiv.org/abs/2012.09673.  
-[5] Google’s GAN Course. https://developers.google.com/machine‐learning/gan/training.  
+[5] Google’s GAN Course. https://developers.google.com/machine-learning/gan/training.  
 [6] StackGAN: Text to Photo‐Realistic Image Synthesis with Stacked Generative Adversarial Networks. https://arxiv.org/abs/1612.03242.  
 [7] Zero‐Shot Text‐to‐Image Generation. https://arxiv.org/abs/2102.12092.  
 [8] Muse: Text‐To‐Image Generation via Masked Generative Transformers. https://arxiv.org/abs/2301.00704.  
-[9] DALL∙E 3. https://openai.com/index/dall‐e‐3/.  
+[9] DALL∙E 3. https://openai.com/index/dall-e-3/.  
 [10] Attribute‐Specific Control Units in StyleGAN for Fine‐Grained Image Manipulation. https://arxiv.org/abs/2111.13010.  
 [11] A Guide to Convolution Arithmetic for Deep Learning. https://arxiv.org/abs/1603.07285.  
 [12] Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. https://arxiv.org/abs/1502.03167.  
@@ -300,7 +300,7 @@
 [17] PyTorch’s Tanh Layer. https://pytorch.org/docs/stable/generated/torch.nn.Tanh.html.  
 [18] A Style‐Based Generator Architecture for Generative Adversarial Networks. https://arxiv.org/abs/1812.04948.  
 [19] Minimax. https://en.wikipedia.org/wiki/Minimax.  
-[20] Loss Functions in GANs. https://developers.google.com/machine‐learning/gan/loss.  
+[20] Loss Functions in GANs. https://developers.google.com/machine-learning/gan/loss.  
 [21] Towards Principled Methods for Training Generative Adversarial Networks. https://arxiv.org/abs/1701.04862.  
 [22] Unrolled Generative Adversarial Networks. https://arxiv.org/abs/1611.02163.  
 [23] Stabilizing Training of Generative Adversarial Networks through Regularization. https://arxiv.org/abs/1705.09367.  
@@ -339,10 +339,10 @@
 [12] NTIRE 2024 Challenge on Image Super‐Resolution (×4): Methods and Results. https://arxiv.org/abs/2404.09790.  
 [13] Muse: Text‐To‐Image Generation via Masked Generative Transformers. https://arxiv.org/abs/2301.00704.  
 [14] VQGAN‐CLIP: Open Domain Image Generation and Editing with Natural Language Guidance. https://arxiv.org/abs/2204.08583.  
-[15] LAR‐SR: A Local Autoregressive Model for Image Super‐Resolution. https://openac cess.thecvf.com/content/CVPR2022/papers/Guo_LAR‐SR_A_Local_Autoregressive_Model_for_Image_Super‐Resolution_CVPR_2022_paper.pdf.  
+[15] LAR‐SR: A Local Autoregressive Model for Image Super‐Resolution. https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_LAR-SR_A_Local_Autoregressive_Model_for_Image_Super-Resolution_CVPR_2022_paper.pdf.  
 [16] Long Horizon Temperature Scaling. https://arxiv.org/abs/2302.03686.  
 [17] Learning Rate Scheduling. https://d2l.ai/chapter_optimization/lr‐scheduler.html.  
-[18] Adversarial Training. https://adversarial‐ml‐tutorial.org/adversarial_training/.  
+[18] Adversarial Training. https://adversarial-ml-tutorial.org/adversarial_training/.  
 [19] Progressive Growing of GANs for Improved Quality, Stability, and Variation. https://arxiv.org/abs/1710.10196.  
 [20] CogView2: Faster and Better Text‐to‐Image Generation via Hierarchical Transformers. https://arxiv.org/abs/2204.14217.  
 
@@ -350,7 +350,7 @@
 
 ## Chapter 9: Text-to-Image Generation
 
-[1] OpenAI’s DALL‐E 3. https://openai.com/index/dall‐e‐3/.  
+[1] OpenAI’s DALL‐E 3. https://openai.com/index/dall-e-3/.  
 [2] Imagen 3. https://arxiv.org/abs/2408.07009.  
 [3] Adobe’s Firefly. https://www.adobe.com/products/firefly.html.  
 [4] Introducing ChatGPT. https://openai.com/index/chatgpt/.  
@@ -370,7 +370,7 @@
 [18] Denoising Diffusion Probabilistic Models. https://arxiv.org/abs/2006.11239.  
 [19] Classifier‐Free Diffusion Guidance. https://arxiv.org/abs/2207.12598.  
 [20] Denoising Diffusion Implicit Models. https://arxiv.org/abs/2010.02502.  
-[21] Introduction to Diffusion Models. https://lilianweng.github.io/posts/2021‐07‐11‐diffusion‐models/.  
+[21] Introduction to Diffusion Models. https://lilianweng.github.io/posts/2021-07-11-diffusion-models/.  
 [22] Mixed Precision Training. https://arxiv.org/abs/1710.03740.  
 [23] FSDP tutorial. https://pytorch.org/tutorials/intermediate/FSDP_tutorial.html.  
 [24] DeepSpeed. https://github.com/microsoft/DeepSpeed.  
@@ -379,25 +379,25 @@
 [27] Inception score. https://en.wikipedia.org/wiki/Inception_score.  
 [28] FID calculation. https://en.wikipedia.org/wiki/Fr%C3%A9chet_inception_distance.  
 [29] CLIPScore: A Reference‐free Evaluation Metric for Image Captioning. https://arxiv.org/abs/2104.08718.  
-[30] Sora overview. https://openai.com/index/video‐generation‐models‐as‐world‐simulators/.  
+[30] Sora overview. https://openai.com/index/video-generation-models-as-world-simulators/.  
 [31] Imagen Video: High Definition Video Generation with Diffusion Models. https://arxiv.org/abs/2210.02303.  
-[32] Finetune Stable Diffusion Models with DDPO via TRL. https://huggingface.co/blog/trl‐ddpo.  
+[32] Finetune Stable Diffusion Models with DDPO via TRL. https://huggingface.co/blog/trl-ddpo.  
 [33] Kandinsky: an Improved Text‐to‐Image Synthesis with Image Prior and Latent Diffusion. https://arxiv.org/abs/2310.03502.  
 [34] On the Importance of Noise Scheduling for Diffusion Models. https://arxiv.org/abs/2301.10972.  
 [35] Patchn’Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution. https://arxiv.org/abs/2307.06304.  
 [36] InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual‐Linguistic Tasks. https://arxiv.org/abs/2312.14238.  
 [37] BLIP‐2: Bootstrapping Language‐Image Pre‐training with Frozen Image Encoders and Large Language Models. https://arxiv.org/abs/2301.12597.  
 [38] Adding Conditional Control to Text‐to‐Image Diffusion Models. https://arxiv.org/abs/2302.05543.  
-[39] StyleDrop: Text‐to‐image generation in any style. https://research.google/blog/styledrop‐text‐to‐image‐generation‐in‐any‐style/.  
+[39] StyleDrop: Text‐to‐image generation in any style. https://research.google/blog/styledrop-text-to-image-generation-in-any-style/.  
 
 ---
 
 ## Chapter 10: Personal Headshot Generation
 
-[1] Imagine yourself: Tuning‐Free Personalized Image Generation. https://ai.meta.com/research/publications/imagine‐yourself‐tuning‐free‐personalized‐image‐generation/.  
+[1] Imagine yourself: Tuning‐Free Personalized Image Generation. https://ai.meta.com/research/publications/imagine-yourself-tuning-free-personalized-image-generation/.  
 [2] MoA: Mixture‐of‐Attention for Subject‐Context Disentanglement in Personalized Image Generation. https://arxiv.org/abs/2404.11565.  
 [3] InstantID: Zero‐shot Identity‐Preserving Generation in Seconds. https://arxiv.org/abs/2401.07519.  
-[4] An Image is Worth One Word: Personalizing Text‐to‐Image Generation using Textual Inversion. https://textual‐inversion.github.io/.  
+[4] An Image is Worth One Word: Personalizing Text‐to‐Image Generation using Textual Inversion. https://textual-inversion.github.io/.  
 [5] DreamBooth: Fine Tuning Text‐to‐Image Diffusion Models for Subject‐Driven Generation. https://arxiv.org/abs/2208.12242.  
 [6] LoRA: Low‐Rank Adaptation of Large Language Models. https://arxiv.org/abs/2106.09685.  
 [7] Language Models are Few‐Shot Learners. https://arxiv.org/abs/2005.14165.  
@@ -407,7 +407,7 @@
 [11] Inception score. https://en.wikipedia.org/wiki/Inception_score.  
 [12] Learning Transferable Visual Models From Natural Language Supervision. https://arxiv.org/abs/2103.00020.  
 [13] Emerging Properties in Self‐Supervised Vision Transformers. https://arxiv.org/abs/2104.14294.  
-[14] Contrastive Representation Learning. https://lilianweng.github.io/posts/2021‐05‐31‐contrastive/.  
+[14] Contrastive Representation Learning. https://lilianweng.github.io/posts/2021-05-31-contrastive/.  
 [15] DINOv2: Learning Robust Visual Features without Supervision. https://arxiv.org/abs/2304.07193.  
 [16] An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine‐tuning. https://arxiv.org/abs/2308.08747.  
 [17] SDXL: Improving Latent Diffusion Models for High‐Resolution Image Synthesis. https://arxiv.org/abs/2307.01952.  
@@ -419,24 +419,24 @@
 
 ## Chapter 11: Text-to-Video Generation
 
-[1] Video generation models as world simulators. https://openai.com/index/video‐generation‐models‐as‐world‐simulators/.  
-[2] H100 Tensor Core GPU. https://www.nvidia.com/en‐us/data‐center/h100/.  
+[1] Video generation models as world simulators. https://openai.com/index/video-generation-models-as-world-simulators/.  
+[2] H100 Tensor Core GPU. https://www.nvidia.com/en-us/data-center/h100/.  
 [3] High‐Resolution Image Synthesis with Latent Diffusion Models. https://arxiv.org/abs/2112.10752.  
-[4] Meta Movie Gen. https://ai.meta.com/research/movie‐gen/.  
+[4] Meta Movie Gen. https://ai.meta.com/research/movie-gen/.  
 [5] Auto‐Encoding Variational Bayes. https://arxiv.org/abs/1312.6114.  
-[6] The Illustrated Stable Diffusion. https://jalammar.github.io/illustrated‐stable‐diffusion/.  
+[6] The Illustrated Stable Diffusion. https://jalammar.github.io/illustrated-stable-diffusion/.  
 [7] On the De‐duplication of LAION‐2B. https://arxiv.org/abs/2303.12733.  
 [8] The Llama 3 Herd of Models. https://arxiv.org/abs/2407.21783.  
-[9] LLaVA‐NeXT: A Strong Zero‐shot Video Understanding Model. https://llava‐vl.github.io/blog/2024‐04‐30‐llava‐next‐video/.  
+[9] LLaVA‐NeXT: A Strong Zero‐shot Video Understanding Model. https://llava-vl.github.io/blog/2024-04-30-llava-next-video/.  
 [10] Lumiere: A Space‐Time Diffusion Model for Video Generation. https://arxiv.org/abs/2401.12945.  
-[11] OpenSora Technical Report. https://github.com/hpcaitech/Open‐Sora/blob/main/docs/report_02.md.  
+[11] OpenSora Technical Report. https://github.com/hpcaitech/Open-Sora/blob/main/docs/report_02.md.  
 [12] RoFormer: Enhanced Transformer with Rotary Position Embedding. https://arxiv.org/abs/2104.09864.  
 [13] Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets. https://arxiv.org/abs/2311.15127.  
 [14] Emu Video: Factorizing Text‐to‐Video Generation by Explicit Image Conditioning. https://arxiv.org/abs/2311.10709.  
 [15] Imagen Video: High Definition Video Generation with Diffusion Models. https://arxiv.org/abs/2210.02303.  
 [16] HyperAttention: Long‐context Attention in Near‐Linear Time. https://arxiv.org/abs/2310.05869.  
 [17] Mixture of Experts Explained. https://huggingface.co/blog/moe.  
-[18] VBench: Comprehensive Benchmark Suite for Video Generative Models. https://vchitect.github.io/VBench‐project/.  
+[18] VBench: Comprehensive Benchmark Suite for Video Generative Models. https://vchitect.github.io/VBench-project/.  
 [19] Movie Gen Bench. https://github.com/facebookresearch/MovieGenBench.  
 [20] FID calculation. https://en.wikipedia.org/wiki/Fr%C3%A9chet_inception_distance.  
 [21] Inception score. https://en.wikipedia.org/wiki/Inception_score.  
@@ -451,7 +451,7 @@
 [30] Photorealistic Text‐to‐Image Diffusion Models with Deep Language Understanding. https://arxiv.org/abs/2205.11487.  
 [31] CustomVideo: Customizing Text‐to‐Video Generation with Multiple Subjects. https://arxiv.org/abs/2401.09962.  
 [32] Control‐A‐Video: Controllable Text‐to‐Video Generation with Diffusion Models. https://controlavideo.github.io/.  
-[33] Introducing Stable Cascade. https://stability.ai/news/introducing‐stable‐cascade.  
+[33] Introducing Stable Cascade. https://stability.ai/news/introducing-stable-cascade.  
 
 ---
 
