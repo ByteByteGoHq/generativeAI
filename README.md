@@ -67,9 +67,9 @@
 [6] RITA: Group Attention is All You Need for Timeseries Analytics. https://arxiv.org/abs/2306.01926.  
 [7] FlashAttention: Fast and Memory‐Efficient Exact Attention with IO‐Awareness. https://arxiv.org/abs/2205.14135.  
 [8] Language Identification. https://en.wikipedia.org/wiki/Language_identification.  
-[9] FastText Model for Language Identification. https://huggingface.co/facebook/fasttext‐language‐identification.  
+[9] FastText Model for Language Identification. https://huggingface.co/facebook/fasttext-language-identification.  
 [10] Transformer‐XL. https://arxiv.org/abs/1901.02860.  
-[11] Byte‐Pair Encoding Tokenization. https://huggingface.co/learn/nlp‐course/en/chapter6/5.  
+[11] Byte‐Pair Encoding Tokenization. https://huggingface.co/learn/nlp-course/en/chapter6/5.  
 [12] SentencePiece Tokenization. https://arxiv.org/abs/1808.06226.  
 [13] Tiktoken Library. https://github.com/openai/tiktoken.  
 [14] Google’s Gemini. https://gemini.google.com/.  
@@ -80,44 +80,44 @@
 [19] OpenAI’s Models. https://platform.openai.com/docs/models.  
 [20] Meta’s LLaMA. https://llama.meta.com/.  
 [21] Introduction to Transformers by Andrej Karpathy. https://www.youtube.com/watch?v=XfpMkf4rD6E.  
-[22] Transformer Visualized. https://jalammar.github.io/illustrated‐transformer/.  
+[22] Transformer Visualized. https://jalammar.github.io/illustrated-transformer/.  
 [23] Common Crawl. https://commoncrawl.org/.  
-[24] Cross‐Entropy. https://en.wikipedia.org/wiki/Cross‐entropy.  
-[25] Prompt Engineering. https://platform.openai.com/docs/guides/prompt‐engineering.  
+[24] Cross‐Entropy. https://en.wikipedia.org/wiki/Cross-entropy.  
+[25] Prompt Engineering. https://platform.openai.com/docs/guides/prompt-engineering.  
 [26] Beam Search. https://en.wikipedia.org/wiki/Beam_search.  
 [27] Perplexity. https://en.wikipedia.org/wiki/Perplexity.  
 [28] Gmail Smart Compose: Real‐Time Assisted Writing. https://arxiv.org/abs/1906.00080.  
-[29] WordPiece Tokenization. https://huggingface.co/learn/nlp‐course/en/chapter6/6.  
+[29] WordPiece Tokenization. https://huggingface.co/learn/nlp-course/en/chapter6/6.  
 [30] Better & Faster Large Language Models via Multi‐token Prediction. https://arxiv.org/abs/2404.19737.
 
 ---
 
 ## Chapter 3: Google Translate
 
-[1] Google Translate Service. https://blog.google/products/translate/google‐translate‐new‐languages‐2024/.  
+[1] Google Translate Service. https://blog.google/products/translate/google-translate-new-languages-2024/.  
 [2] Neural Machine Translation by Jointly Learning to Align and Translate. https://arxiv.org/abs/1409.0473.  
 [3] BERT: Pre‐training of Deep Bidirectional Transformers for Language Understanding. https://arxiv.org/abs/1810.04805.  
 [4] GPT Models. https://platform.openai.com/docs/models.  
 [5] Claude Models. https://www.anthropic.com/claude.  
 [6] Bidirectional Long Short‐Term Memory (BLSTM) Neural Networks for Reconstruction of Top‐Quark Pair Decay Kinematics. https://arxiv.org/abs/1909.01144.  
-[7] BPE Tokenization. https://huggingface.co/learn/nlp‐course/en/chapter6/5.  
+[7] BPE Tokenization. https://huggingface.co/learn/nlp-course/en/chapter6/5.  
 [8] C4 Dataset. https://www.tensorflow.org/datasets/catalog/c4.  
 [9] Wikipedia Dataset. https://www.tensorflow.org/datasets/catalog/wikipedia.  
-[10] Stack Exchange Dataset. https://huggingface.co/datasets/HuggingFaceH4/stack‐e xchange‐preferences.  
-[11] How Transformers Work. https://huggingface.co/learn/nlp‐course/en/chapter1/4.  
+[10] Stack Exchange Dataset. https://huggingface.co/datasets/HuggingFaceH4/stack-exchange-preferences.  
+[11] How Transformers Work. https://huggingface.co/learn/nlp-course/en/chapter1/4.  
 [12] Exploring the Limits of Transfer Learning with a Unified Text‐to‐Text Transformer. https://arxiv.org/pdf/1910.10683.pdf.  
 [13] BART: Denoising Sequence‐to‐Sequence Pre‐training for Natural Language Generation, Translation, and Comprehension. https://arxiv.org/abs/1910.13461.  
 [14] mT5: A Massively Multilingual Pre‐trained Text‐to‐Text Transformer. https://arxiv.org/abs/2010.11934.  
 [15] Multilingual Denoising Pre‐training for Neural Machine Translation. https://arxiv.org/abs/2001.08210.  
 [16] BLEU Metric. https://en.wikipedia.org/wiki/BLEU.  
 [17] ROUGE Metric. https://en.wikipedia.org/wiki/ROUGE_(metric).  
-[18] METEOR Metric. https://www.cs.cmu.edu/~alavie/METEOR/pdf/Banerjee‐Lavie‐2005‐METEOR.pdf.  
+[18] METEOR Metric. https://www.cs.cmu.edu/~alavie/METEOR/pdf/Banerjee-Lavie-2005-METEOR.pdf.  
 [19] WordNet. https://wordnet.princeton.edu/.  
-[20] No Language Left Behind: Scaling Human‐Centered Machine Translation. https://research.facebook.com/publications/no‐language‐left‐behind/.  
+[20] No Language Left Behind: Scaling Human‐Centered Machine Translation. https://research.facebook.com/publications/no-language-left-behind/.  
 [21] Decoder‐Only or Encoder‐Decoder? Interpreting Language Model as a Regularized Encoder‐Decoder. https://arxiv.org/abs/2304.04052.  
 [22] Towards Continual Learning for Multilingual Machine Translation via Vocabulary Substitution. https://arxiv.org/abs/2103.06799.  
 [23] Efficient Inference for Neural Machine Translation. https://arxiv.org/abs/2010.02416.  
-[24] Meta’s Multilingual Model. https://ai.meta.com/blog/nllb‐200‐high‐quality‐machine‐translation/.  
+[24] Meta’s Multilingual Model. https://ai.meta.com/blog/nllb-200-high-quality-machine-translation/.  
 [25] Machine Translation Evaluation. https://en.wikipedia.org/wiki/Evaluation_of_machine_translation.  
 [26] Word Error Rate (WER) Metric. https://en.wikipedia.org/wiki/Word_error_rate.  
 [27] Automatic Language Identification Using Deep Neural Networks. https://research.google.com/pubs/archive/42538.pdf.  
@@ -130,33 +130,33 @@
 [3] OpenAI’s Models. https://platform.openai.com/docs/models.  
 [4] Google’s Gemini. https://gemini.google.com/.  
 [5] Meta’s Llama. https://llama.meta.com/.  
-[6] Beautiful Soup. https://beautiful‐soup‐4.readthedocs.io/en/latest/.  
+[6] Beautiful Soup. https://beautiful-soup-4.readthedocs.io/en/latest/.  
 [7] Lxml. https://lxml.de/.  
 [8] Document Object Model. https://en.wikipedia.org/wiki/Document_Object_Model.  
-[9] Boilerplate Removal Tool. https://github.com/miso‐belica/jusText.  
+[9] Boilerplate Removal Tool. https://github.com/miso-belica/jusText.  
 [10] fastText. https://fasttext.cc/.  
 [11] langid. https://github.com/saffsd/langid.py.  
 [12] RoFormer: Enhanced Transformer with Rotary Position Embedding. https://arxiv.org/abs/2104.09864.  
-[13] Llama 3 Human Evaluation. https://github.com/meta‐llama/llama3/blob/main/eval_details.md.  
+[13] Llama 3 Human Evaluation. https://github.com/meta-llama/llama3/blob/main/eval_details.md.  
 [14] Exploring the Limits of Transfer Learning with a Unified Text‐to‐Text Transformer. https://arxiv.org/abs/1910.10683.  
 [15] DeBERTa: Decoding‐enhanced BERT with Disentangled Attention. https://arxiv.org/abs/2006.03654.  
 [16] Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention. https://arxiv.org/abs/2006.16236.  
 [17] Common Crawl. https://commoncrawl.org/.  
 [18] C4 Dataset. https://www.tensorflow.org/datasets/catalog/c4.  
-[19] Stack Exchange Dataset. https://github.com/EleutherAI/stackexchange‐dataset.  
+[19] Stack Exchange Dataset. https://github.com/EleutherAI/stackexchange-dataset.  
 [20] Training Language Models to Follow Instructions with Human Feedback. https://arxiv.org/abs/2203.02155.  
 [21] Alpaca. https://crfm.stanford.edu/2023/03/13/alpaca.html.  
-[22] Dolly‐15K. https://www.databricks.com/blog/2023/04/12/dolly‐first‐open‐commercially‐viable‐instruction‐tuned‐llm.  
-[23] Introducing FLAN: More Generalizable Language Models with Instruction Fine‐Tuning. https://research.google/blog/introducing‐flan‐more‐generalizable‐language‐models‐with‐instruction‐fine‐tuning/.  
+[22] Dolly‐15K. https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm.  
+[23] Introducing FLAN: More Generalizable Language Models with Instruction Fine‐Tuning. https://research.google/blog/introducing-flan-more-generalizable-language-models-with-instruction-fine-tuning/.  
 [24] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback. https://arxiv.org/abs/2204.05862.  
 [25] Proximal Policy Optimization Algorithms. https://arxiv.org/abs/1707.06347.  
 [26] Direct Preference Optimization: Your Language Model is Secretly a Reward Model. https://arxiv.org/abs/2305.18290.  
 [27] Illustrating RLHF. https://huggingface.co/blog/rlhf.  
 [28] RLHF Progress and Challenges. https://www.youtube.com/watch?v=hhiLw5Q_UFg.  
 [29] State of GPT. https://www.youtube.com/watch?v=bZQun8Y4L2A.  
-[30] Different Sampling Methods. https://huggingface.co/blog/how‐to‐generate.  
+[30] Different Sampling Methods. https://huggingface.co/blog/how-to-generate.  
 [31] The Curious Case of Neural Text Degeneration. https://arxiv.org/abs/1904.09751.  
-[32] OpenAI’s API Reference. https://platform.openai.com/docs/api‐reference/chat/create.  
+[32] OpenAI’s API Reference. https://platform.openai.com/docs/api-reference/chat/create.  
 [33] Cheat Sheet: Mastering Temperature and Top_p in ChatGPT API. https://community.openai.com/t/cheat‐sheet‐mastering‐temperature‐and‐top‐p‐in‐chatgpt‐api/172683.  
 [34] PIQA: Reasoning about Physical Commonsense in Natural Language. https://arxiv.org/abs/1911.11641.  
 [35] SocialIQA: Commonsense Reasoning about Social Interactions. https://arxiv.org/abs/1904.09728.  
@@ -169,10 +169,10 @@
 [42] SQuAD: 100,000+ Questions for Machine Comprehension of Text. https://arxiv.org/abs/1606.05250.  
 [43] QuAC Dataset. https://quac.ai/.  
 [44] BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions. https://arxiv.org/abs/1905.10044.  
-[45] GSM8K Dataset. https://github.com/openai/grade‐school‐math.  
+[45] GSM8K Dataset. https://github.com/openai/grade-school-math.  
 [46] MATH Dataset. https://github.com/hendrycks/math/.  
-[47] HumanEval Dataset. https://github.com/openai/human‐eval.  
-[48] MBPP Dataset. https://github.com/google‐research/google‐research/tree/master/mbpp.  
+[47] HumanEval Dataset. https://github.com/openai/human-eval.  
+[48] MBPP Dataset. https://github.com/google-research/google-research/tree/master/mbpp.  
 [49] Measuring Massive Multitask Language Understanding. https://arxiv.org/abs/2009.03300.  
 [50] Measuring Massive Multitask Language Understanding. https://arxiv.org/abs/2009.03300.  
 [51] AGIEval: A Human‐Centric Benchmark for Evaluating Foundation Models. https://arxiv.org/abs/2304.06364.  
@@ -187,8 +187,8 @@
 [60] Question Answering for Privacy Policies: Combining Computational and Legal Perspectives. https://arxiv.org/abs/1911.00841.  
 [61] AdvGLUE Benchmark. https://adversarialglue.github.io/.  
 [62] Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment. https://arxiv.org/abs/1907.11932.  
-[63] AdvBench. https://github.com/llm‐attacks/llm‐attacks.  
-[64] Chatbot Arena Leaderboard. https://lmsys‐chatbot‐arena‐leaderboard.hf.space/.  
+[63] AdvBench. https://github.com/llm-attacks/llm-attacks.  
+[64] Chatbot Arena Leaderboard. https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard.  
 [65] A Survey on Recent Advances in LLM‐Based Multi‐Turn Dialogue Systems. https://arxiv.org/abs/2402.18013.  
 [66] Better & Faster Large Language Models via Multi‐Token Prediction. https://arxiv.org/abs/2404.19737.  
 [67] Gemini 1.5: Unlocking Multimodal Understanding Across Millions of Tokens of Context. https://arxiv.org/abs/2403.05530.  
@@ -196,15 +196,15 @@
 [69] MM‐LLMs: Recent Advances in Multimodal Large Language Models. https://arxiv.org/abs/2401.13601.  
 [70] Multimodality and Large Multimodal Models. https://huyenchip.com/2023/10/10/multimodal.html.  
 [71] What is Retrieval‐Augmented Generation? https://cloud.google.com/use‐cases/retrieval‐augmented‐generation.  
-[72] How to Customize an LLM: A Deep Dive to Tailoring an LLM for Your Business. https://techcommunity.microsoft.com/t5/ai‐machine‐learning‐blog/how‐to‐customize‐an‐llm‐a‐deep‐dive‐to‐tailoring‐an‐llm‐for‐your/ba‐p/4110204.  
+[72] How to Customize an LLM: A Deep Dive to Tailoring an LLM for Your Business. https://techcommunity.microsoft.com/blog/machinelearningblog/how-to-customize-an-llm-a-deep-dive-to-tailoring-an-llm-for-your-business/4110204.  
 [73] Llama 2: Open Foundation and Fine‐Tuned Chat Models. https://arxiv.org/abs/2307.09288.  
 [74] Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned. https://arxiv.org/abs/2209.07858.  
-[75] Introducing Superalignment. https://openai.com/index/introducing‐superalignment/.  
+[75] Introducing Superalignment. https://openai.com/index/introducing-superalignment/.  
 [76] Language Models are Few‐Shot Learners. https://arxiv.org/abs/2005.14165.  
 [77] GQA: Training Generalized Multi‐Query Transformer Models from Multi‐Head Checkpoints. https://arxiv.org/abs/2305.13245.  
 [78] Chain‐of‐Thought Prompting Elicits Reasoning in Large Language Models. https://arxiv.org/abs/2201.11903.  
 [79] Efficiently Scaling Transformer Inference. https://arxiv.org/abs/2211.05102.  
-[80] Prover‐Verifier Games Improve Legibility of Language Model Outputs. https://openai.com/index/prover‐verifier‐games‐improve‐legibility/.  
+[80] Prover‐Verifier Games Improve Legibility of Language Model Outputs. https://openai.com/index/prover-verifier-games-improve-legibility/.  
 
 ---
 
